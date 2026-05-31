@@ -8,11 +8,14 @@ As a proud GenX educator, I have a healthy skepticism for passing pedagogical fa
 
 This repro is for sharing my work with anyone who wants to use it - and needs it. If you feel like something here is of use - maybe saving you weeks or months of work ... gets you where you wanted to be faster ... then **consider buying me a coffee** to keep these personal projects running in my old age. Just like any other teacher, no ones giving me time or paying me for this.
 
-## Index
+## 🗂️ Project Index
 
 <p align="center">
   <a href="https://github.com/VormCorp/Think_Like_A_Computer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VormCorp&repo=Think_Like_A_Computer&theme=radical" alt="Think Like a Computer" width="48%"/>
+    <img src="https://img.shields.io/badge/🚀_Project:_Think_Like_A_Computer-059669?style=for-the-badge&logo=github&logoColor=white" alt="Think Like a Computer" width="48%"/>
+  </a>
+  <a href="https://github.com/VormCorp/lofipy" target="_blank">
+    <img src="https://img.shields.io/badge/🎧_Project:_Lofipy-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Lofipy" width="48%"/>
   </a>
 </p>
 
