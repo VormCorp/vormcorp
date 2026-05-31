@@ -20,38 +20,32 @@ June 2026 release. A completely free, non-commercial micro:bit and Python course
 
 **Why**
 
-The new syllabus has resulted in many schools dumbing down the subject. There are reasons, but after the bad experience many had with Arduino's and Crack The Code, many teachers felt that teaching computational thinking and code was just too hard. Many schools dropped it as the cost of buying the hardware was never ending. Students too, found Arduino and electronics hard to fathom, and lack of local knowledge didn't help.
+## Pedagogical Framework - Why schools have been getting it wrong for the last few years.
 
-This is a rethink. All the materials you need to teach it - done. All the code needed - done. You can use the virtual micro:bit just fine. I've included that, plys V1 and V2 options for the lessons and activities - so you're all set to go.
+This course deliberately rejects the modern "tool-first" trend in digital technologies education. It is built on foundational educational research establishing that computer science instruction must prioritise structural cognitive logic over superficial syntax memorisation or 'block' copying. For the most part, the attempt to bring physical computing into Technology Mandatory was ambitious, however it failed to address what we have known for decades.
 
-This runs off my GitHub page, so you might (never know) need to check access [insert link dummy]
+### 1. Cognitive Load Theory: Why "Tool-First" Modernism Fails
+A major point of friction in secondary school robotics and coding is the premature introduction of complex syntax or finicky physical computing components (e.g., raw breadboards, jumpers, and dense C++ syntax). 
 
-**Here's what you get for FREE**
+* **The Research:** Sweller’s **Cognitive Load Theory (CLT)** demonstrates that a novice learner’s working memory is extremely limited. When a 13-year-old student spends an entire 40-minute lesson troubleshooting loose wires, broken hardware, or missing semicolons, their *germane cognitive load* (the mental bandwidth used to process and integrate new schemas) drops to zero.
+* **Our Approach:** By isolating the programming environment to browser-based **MicroPython** via the online editor and utilising highly integrated BBC micro:bit hardware (or its native simulator), we strip away extraneous cognitive noise. Students focus 100% of their mental energy on core logical problems, not environmental frustration.
 
-Instead of getting bogged down memorising programming languages, this framework teaches students how to systematically solve complex problems by mastering the **Four Pillars of Computational Thinking** and uses the SOLO (not Blooms) taxonomy.
+### 2. The Four Pillars of Computational Thinking
+I treat coding not as an isolated vocational skill, but as an analytical toolset. This framework builds upon Jeannette Wing’s seminal research on **Computational Thinking (CT)**, which redefines computer science as a universally applicable problem-solving methodology. 
 
-* **🧩 Decomposition** – Breaking big, intimidating problems into bite-sized, manageable pieces.
-* **🔍 Pattern Recognition** – Spotting similarities, loops, and repetitions to optimize logic.
-* **🎭 Abstraction** – Stripping away the noise to focus purely on what matters.
-* **📝 Algorithm Design** – Crafting bulletproof, step-by-step instructions to solve any problem.
+Rather than memorizing arbitrary code commands, students systematically attack problems using the four structural pillars across all 10 lessons:
+* **Decomposition:** Learning to break down complex, multi-layered digital problems into bite-sized, isolated tasks.
+* **Pattern Recognition:** Spotting loops, logic structures, and recurring conditions to optimize code efficiency.
+* **Abstraction:** Stripping away background noise to focus purely on the critical inputs and data paths.
+* **Algorithm Design:** Crafting ironclad, step-by-step instructions (the Input-Process-Output loop) to achieve a predictable outcome.
 
-> **Level Up System:** The course tracks learner progress through a custom conceptual hierarchy, taking them from **Uni-Structural** (knowing an isolated command) up to **Multi-Relational** (applying structural logic to non-coding, real-world problems).
+### 3. Measuring Progression: Biggs’ SOLO Taxonomy vs. Bloom
+While most school curricula blindly lean on Bloom’s Taxonomy, this course is systematically mapped to Biggs and Collis' **SOLO Taxonomy (Structure of Observing Learning Outcomes)**. Bloom treats knowledge abstractly; SOLO measures the explicit *structural complexity* of a learner's output.
 
----
 
-## 🎧 Also check out: Lofipy 
+## ☕ Can you support my work
 
-Need the perfect, distraction-free environment while you're engineering solutions or planning lessons? 
-
-Check out my other project: **[Lofipy](https://vormamim.com/lofipy)**. It’s a curated aesthetic workspace designed to help developers, students, and educators get into a deep-focus flow state with high-quality lofi beats. 
-
----
-
-## ☕ Support My Work
-
-Creating deeply researched, high-quality educational frameworks and maintaining free resources takes an immense amount of time (and coffee). 
-
-If my content has helped you see a problem differently, inspired your classroom, or given you that perfect "aha!" moment, consider supporting me!
+Creating deeply researched, high-quality educational frameworks and maintaining free resources takes an immense amount of time (and coffee).  If my content has helped you see a problem differently, inspired your classroom, or given you that perfect "aha!" moment, consider supporting me! We're all used to the mantra - do more with less ... but sooner or later, you'll be left with AI slop lesson plans.
 
 <p align="left">
   <a href="https://www.paypal.com/ncp/payment/SHQNBXYYRTHBG" target="_blank">
