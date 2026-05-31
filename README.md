@@ -16,35 +16,31 @@ This repro is for sharing my work with anyone who wants to use it - and needs it
   </a>
 </p>
 
-## June 2026 release. A completely free, non-commercial micro:bit and Python course aligned with the **2026 NSW Technology 7–8 Syllabus**.
+### June 2026 release. A completely free, non-commercial micro:bit and Python course aligned with the **2026 NSW Technology 7–8 Syllabus**.
 
 
 ## Pedagogical Framework - Why schools have been getting it wrong for the last few years.
 
-This course deliberately rejects the modern "tool-first" trend in digital technologies education. It is built on foundational educational research establishing that computer science instruction must prioritise structural cognitive logic over superficial syntax memorisation or 'block' copying. For the most part, the attempt to bring physical computing into Technology Mandatory was ambitious, however it failed to address what we have known for decades.
+This course deliberately rejects the modern "tool-first" trend in digital technologies education. It is built on foundational educational research establishing that computer science instruction must prioritise structural cognitive logic over superficial syntax memorisation or 'block' copying. For the most part, the attempt to bring physical computing into Technology Mandatory was ambitious, however it failed to give sufficent consideration to what we have known for decades. Now we have cupboards full of wires and abandoned boards.
 
 ### 1. Cognitive Load Theory: Why "Tool-First" Modernism Fails
 A major point of friction in secondary school robotics and coding is the premature introduction of complex syntax or finicky physical computing components (e.g., raw breadboards, jumpers, and dense C++ syntax). 
 
 * **The Research:** Sweller’s **Cognitive Load Theory (CLT)** demonstrates that a novice learner’s working memory is extremely limited. When a 13-year-old student spends an entire 40-minute lesson troubleshooting loose wires, broken hardware, or missing semicolons, their *germane cognitive load* (the mental bandwidth used to process and integrate new schemas) drops to zero.
-* **Our Approach:** By isolating the programming environment to browser-based **MicroPython** via the online editor and utilising highly integrated BBC micro:bit hardware (or its native simulator), we strip away extraneous cognitive noise. Students focus 100% of their mental energy on core logical problems, not environmental frustration.
+
+* **The Approach:** By isolating the programming environment to browser-based **MicroPython** via the online editor and utilising highly integrated BBC micro:bit hardware (or its native simulator), we strip away extraneous cognitive noise. Students focus 100% of their mental energy on core logical problems, not environmental frustration.
 
 ### 2. The Four Pillars of Computational Thinking
 I treat coding not as an isolated vocational skill, but as an analytical toolset. This framework builds upon Jeannette Wing’s seminal research on **Computational Thinking (CT)**, which redefines computer science as a universally applicable problem-solving methodology. 
 
-Rather than memorizing arbitrary code commands, students systematically attack problems using the four structural pillars across all 10 lessons:
+Rather than memorising arbitrary code commands, students systematically attack problems using the four structural pillars across all 10 lessons
 * **Decomposition:** Learning to break down complex, multi-layered digital problems into bite-sized, isolated tasks.
 * **Pattern Recognition:** Spotting loops, logic structures, and recurring conditions to optimize code efficiency.
 * **Abstraction:** Stripping away background noise to focus purely on the critical inputs and data paths.
 * **Algorithm Design:** Crafting ironclad, step-by-step instructions (the Input-Process-Output loop) to achieve a predictable outcome.
 
 ### 3. Measuring Progression: Biggs’ SOLO Taxonomy vs. Bloom
-While most school curricula blindly lean on Bloom’s Taxonomy, this course is systematically mapped to Biggs and Collis' **SOLO Taxonomy (Structure of Observing Learning Outcomes)**. Bloom treats knowledge abstractly; SOLO measures the explicit *structural complexity* of a learner's output.
-
-
-## ☕ Can you support my work
-
-Creating deeply researched, high-quality educational frameworks and maintaining free resources takes an immense amount of time (and coffee).  If my content has helped you see a problem differently, inspired your classroom, or given you that perfect "aha!" moment, consider supporting me! We're all used to the mantra - do more with less ... but sooner or later, you'll be left with AI slop lesson plans.
+While most school curricula blindly lean on Bloom’s Taxonomy (blame dull university courses), this course is systematically mapped to Biggs and Collis' **SOLO Taxonomy (Structure of Observing Learning Outcomes)**. Bloom treats knowledge abstractly; SOLO measures the explicit *structural complexity* of a learner's output - and thats what we want in this domain.
 
 <p align="left">
   <a href="https://www.paypal.com/ncp/payment/SHQNBXYYRTHBG" target="_blank">
