@@ -13,12 +13,12 @@ This repro is for sharing my work with anyone who wants to use it - and needs it
 <div align="center">
   <div style="margin-bottom: 2em;">
     <a href="https://github.com/VormCorp/Think_Like_A_Computer" target="_blank">
-      <img src="https://img.shields.io/badge/🚀_Project:_Think_Like_A_Computer-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Think Like a Computer" width="350px"/>
+      <img src="https://img.shields.io/badge/_Project:_Think_Like_A_Computer-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Think Like a Computer" width="350px"/>
     </a>
   </div>
   <div>
     <a href="https://github.com/VormCorp/CodeSenseExam" target="_blank">
-      <img src="https://img.shields.io/badge/📝_Project:_Code_Sense_Exam-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Code Sense Exam" width="350px"/>
+      <img src="https://img.shields.io/badge/_Project:_Code_Sense_Exam-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Code Sense Exam" width="350px"/>
     </a>
   </div>
 </div>
