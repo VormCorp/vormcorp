@@ -15,6 +15,13 @@ This repro is for sharing my work with anyone who wants to use it - and needs it
     <img src="https://img.shields.io/badge/🚀_Project:_Think_Like_A_Computer-059669?style=for-the-badge&logo=github&logoColor=white" alt="Think Like a Computer" width="48%"/>
   </a>
 </p>
+<p>
+  <a href="https://github.com/VormCorp/CodeSenseExam" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Project:_Code Sense Exam-059669?style=for-the-badge&logo=github&logoColor=white" alt="Think Like a Computer" width="48%"/>
+  </a>
+
+
+</p>
 
 
 <p align="center">
