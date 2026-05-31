@@ -11,7 +11,7 @@ This repro is for sharing my work with anyone who wants to use it - and needs it
 ## 🗂️ Project Index
 
 <p align="center">
-  <a href="https://github.com/VormCorp/think-like-a-computer" target="_blank">
+  <a href="https://github.com/VormCorp/thinklikeacomputer" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VormCorp&repo=think-like-a-computer&theme=radical" alt="Think Like a Computer" width="48%"/>
   </a>
   <a href="https://github.com/VormCorp/lofipy" target="_blank">
