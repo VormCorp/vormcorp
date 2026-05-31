@@ -46,9 +46,3 @@ If my content has helped you see a problem differently, inspired your classroom,
 </p>
 
 ---
-
-## 🌐 Connect with Me
-
-* **Website:** [vormamim.com](https://vormamim.com)
-* **Course:** [Think Like a Computer](http://127.0.0.1:5501/index.html)
-* **Focus Space:** [Lofipy](https://vormamim.com/lofipy)
