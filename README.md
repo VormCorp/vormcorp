@@ -2,19 +2,29 @@
   <img src="banner.png" alt="VormCorp EdTech Banner" width="100%">
 </p>
 
-# Hi there, I'm [Your Name]! 👋 
+I am an educator, author, and international keynote speaker with over three decades of experience reshaping how tech education is delivered. From training future educators at the university level to presenting future-focused frameworks on global stages, my career has been dedicated to a singular mission: shifting the focus of computer science from superficial syntax memorisation to deep, foundational logic. 
 
-I am a software educator dedicated to shifting the focus of tech education. I don't just teach people how to write syntax; I teach them how to **think like a computer**. 
+As a proud GenX educator, I have a healthy skepticism for passing pedagogical fads and modernism in teaching. I don’t train syntax-monkeys who copy-paste code they don't understand; I teach people how to **think like a computer**. My work explicitly bridges the gap between raw code and true **computational thinking**—equipping learners with an intuitive, flexible **"code sense"** that effortlessly outlasts any trending framework, AI shortcut, or programming language.
 
-My work bridges the gap between raw code and true **computational thinking**—helping learners build an intuitive, flexible **"code sense"** that outlasts any trending framework or programming language.
+This repro is for sharing my work with anyone who wants to use it - and needs it. If you feel like something here is of use - maybe saving you weeks or months of work ... gets you where you wanted to be faster ... then **consider buying me a coffee** to keep these personal projects running in my old age. Just like any other teacher, no ones giving me time or paying me for this.
 
 ---
 
 ## 🚀 Featured Project: Think Like a Computer
 
-I designed and built **[Think Like a Computer](http://127.0.0.1:5501/index.html)**, a completely free, non-commercial micro:bit and Python course aligned with the **2026 NSW Technology 7–8 Syllabus**. 
+This is a June 2026 release. A completely free, non-commercial micro:bit and Python course aligned with the **2026 NSW Technology 7–8 Syllabus**.
 
-Instead of getting bogged down memorizing programming languages, this framework teaches students how to systematically solve complex problems by mastering the **Four Pillars of Computational Thinking**:
+**Why**
+
+The new syllabus has resulted in many schools dumbing down the subject. There are reasons, but after the bad experience many had with Arduino's and Crack The Code, many teachers felt that teaching computational thinking and code was just too hard. Many schools dropped it as the cost of buying the hardware was never ending. Students too, found Arduino and electronics hard to fathom, and lack of local knowledge didn't help.
+
+This is a rethink. All the materials you need to teach it - done. All the code needed - done. You can use the virtual micro:bit just fine. I've included that, plys V1 and V2 options for the lessons and activities - so you're all set to go.
+
+This runs off my GitHub page, so you might (never know) need to check access [insert link dummy]
+
+**Here's what you get for FREE**
+
+Instead of getting bogged down memorising programming languages, this framework teaches students how to systematically solve complex problems by mastering the **Four Pillars of Computational Thinking** and uses the SOLO (not Blooms) taxonomy.
 
 * **🧩 Decomposition** – Breaking big, intimidating problems into bite-sized, manageable pieces.
 * **🔍 Pattern Recognition** – Spotting similarities, loops, and repetitions to optimize logic.
