@@ -16,9 +16,8 @@ This repro is for sharing my work with anyone who wants to use it - and needs it
   </a>
 </p>
 
-June 2026 release. A completely free, non-commercial micro:bit and Python course aligned with the **2026 NSW Technology 7–8 Syllabus**.
+## June 2026 release. A completely free, non-commercial micro:bit and Python course aligned with the **2026 NSW Technology 7–8 Syllabus**.
 
-**Why**
 
 ## Pedagogical Framework - Why schools have been getting it wrong for the last few years.
 
