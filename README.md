@@ -17,10 +17,8 @@ This repro is for sharing my work with anyone who wants to use it - and needs it
 </p>
 
 
-<p align="centre">
+<p align="center">
   <a href="https://www.paypal.com/ncp/payment/SHQNBXYYRTHBG" target="_blank">
     <img src="https://img.shields.io/badge/☕_Help_fund_this_with_$5_donation-FFD140?style=for-the-badge&logo=paypal&logoColor=black" alt="PayPal Donation Button">
   </a>
 </p>
-
----
