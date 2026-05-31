@@ -39,7 +39,11 @@ Creating deeply researched, high-quality educational frameworks and maintaining 
 
 If my content has helped you see a problem differently, inspired your classroom, or given you that perfect "aha!" moment, consider supporting me!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-orange?style=flat-square&logo=buy-me-a-coffee)](YOUR_BUY_ME_A_COFFEE_URL_HERE)
+<p align="left">
+  <a href="https://www.paypal.com/ncp/payment/SHQNBXYYRTHBG" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Help_fund_this_with_$5_donation-FFD140?style=for-the-badge&logo=paypal&logoColor=black" alt="PayPal Donation Button">
+  </a>
+</p>
 
 ---
 
