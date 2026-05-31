@@ -10,18 +10,17 @@ This repro is for sharing my work with anyone who wants to use it - and needs it
 
 ## 🗂️ Project Index
 
-<p align="center">
-  <a href="https://github.com/VormCorp/Think_Like_A_Computer" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Project:_Think_Like_A_Computer-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Think Like a Computer" width="48%"/>
-  </a>
-  <a href="https://github.com/VormCorp/CodeSenseExam" target="_blank">
-    <img src="https://img.shields.io/badge/📝_Project:_Code_Sense_Exam-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Code Sense Exam" width="48%"/>
-  </a>
-</p>
-<p></p>
+## 🗂️ Project Index
 
-<p align="center">
-  <a href="https://www.paypal.com/ncp/payment/SHQNBXYYRTHBG" target="_blank">
-    <img src="https://img.shields.io/badge/☕_Help_fund_this_with_$5_donation-FFD140?style=for-the-badge&logo=paypal&logoColor=black" alt="PayPal Donation Button">
-  </a>
-</p>
+<div align="center">
+  <div style="margin-bottom: 10px;">
+    <a href="https://github.com/VormCorp/Think_Like_A_Computer" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Project:_Think_Like_A_Computer-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Think Like a Computer" width="350px"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/VormCorp/CodeSenseExam" target="_blank">
+      <img src="https://img.shields.io/badge/📝_Project:_Code_Sense_Exam-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Code Sense Exam" width="350px"/>
+    </a>
+  </div>
+</div>
