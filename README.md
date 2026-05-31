@@ -16,7 +16,7 @@ This repro is for sharing my work with anyone who wants to use it - and needs it
   </a>
 </p>
 
-### 3. Measuring Progression: Biggs’ SOLO Taxonomy vs. Bloom
+### The taxonomy which you might not know - and why it works
 While most school curricula blindly lean on Bloom’s Taxonomy (blame dull university courses), this course is systematically mapped to Biggs and Collis' **SOLO Taxonomy (Structure of Observing Learning Outcomes)**. Bloom treats knowledge abstractly; SOLO measures the explicit *structural complexity* of a learner's output - and thats what we want in this domain.
 
 <p align="left">
