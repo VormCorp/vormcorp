@@ -15,8 +15,7 @@ This repro is for sharing my work with anyone who wants to use it - and needs it
     <img src="https://img.shields.io/badge/🚀_Project:_Think_Like_A_Computer-059669?style=for-the-badge&logo=github&logoColor=white" alt="Think Like a Computer" width="48%"/>
   </a>
 </p>
-
-## 🚀 Featured Project: Think Like a Computer
+---
 
 This is a June 2026 release. A completely free, non-commercial micro:bit and Python course aligned with the **2026 NSW Technology 7–8 Syllabus**.
 
